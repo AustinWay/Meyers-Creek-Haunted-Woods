@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+.spooky-font {
+    font-family: 'Metal Mania', cursive;
+    color: #eeeeee;
+}
+
+.palette-red {
+    color: #bc4b4b;
+}
+
+.palette-red-background {
+    background-color: #bc4b4b;
+}
+
+.palette-black {
+    color: #140e00;
+}
+
+.palette-white {
+    color: #eeeeee;
+}
+
+body {
+    background-color: #140e00;
+    color: #eeeeee;
+    text-align: center;
+}
+
+table {
+    color: #eeeeee;
+}
